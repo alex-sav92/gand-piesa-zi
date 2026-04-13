@@ -9,4 +9,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'gand-piesa-zi';
+  thought = "Stay consistent, even when it's hard.";
+  musicUrl = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 }
